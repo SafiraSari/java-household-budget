@@ -1,7 +1,6 @@
 // -------------------------------------------------------
-// Assignment 4
-// Written by: Safira Sari (40249017)
-// For COMP 248 Section T – Fall 2022
+// Written by: Safira Sari
+// Fall 2022
 // --------------------------------------------------------
 
 import java.util.Scanner;
